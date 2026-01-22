@@ -1,0 +1,153 @@
+{
+  "version": 2,
+  "localization": {
+    "hero": {
+      "campfire": "CAMPFIRE",
+      "subtitle": "Game jam for high schoolers in 200+ cities",
+      "hostedAt": "Hosted @ ",
+      "emailPlaceholder": "you@hackclub.com",
+      "ctaPrimary": "SIGN UP!",
+      "ctaSecondary": "flagship event",
+      "ctaSecondaryPrefix": "Looking for our ",
+      "ctaSecondarySuffix": "?",
+      "videoLabel": "watch the video",
+      "mapLabel": "find another event near you"
+    },
+    "nav": {
+      "steps": "Steps",
+      "schedule": "Schedule",
+      "games-made": "Games Made",
+      "faq": "FAQ"
+    },
+    "schedule": {
+      "title": "SCHEDULE"
+    },
+    "sponsors": {
+      "title": "Our sponsors"
+    },
+    "signatures": {
+      "title": "Signatures"
+    },
+    "steps": {
+      "step1": "Sign up for a **Campfire** near you",
+      "step2": "Grab **friends** (or make new friends!) and __form a__ **team of 2-3**",
+      "step3": "Learn from **workshops**, enjoy __free food and merch!__",
+      "step4": "**Build** your game & **publish** it on itch.io!",
+      "guideButton": "READ MORE"
+    },
+    "letter": {
+      "greeting": "Dear Hackers, Musicians, and Artists,",
+      "paragraph1": "Welcome to Hack Club's newest adventure. This winter we invite you to join us for Campfire, the world's biggest Game Jam happening simultaneously in 200 cities.",
+      "paragraph2": "Hack Club wants you to make a game this winter.",
+      "paragraph3": "Don't consider yourself a game dev? No problem - we have tons of online and in-person workshops for you to make your first game!",
+      "paragraph4": "This winter, we invite you to learn something new, make something you're really proud of, meet new friends, and go on an incredible adventure together.",
+      "closing": "With love,",
+      "signature": "The Campfire Team"
+    },
+    "footer": {
+      "tagline": "made with love by Hack Club & Open Sauce",
+      "copyright": "© 2026 Hack Club. 501(c)(3) nonprofit (EIN: 81-2908499)",
+      "description": "Hack Club is a 501(c)(3) nonprofit and network of 60k+ technical high schoolers. We believe you learn best by building so we're creating community and providing grants so you can make awesome projects. In the past few years, we've partnered with GitHub to run ",
+      "closing": "At Hack Club, students aren't just learning, they're shipping.",
+      "links": [
+        { "text": "Hack Club", "href": "https://hackclub.com/" },
+        { "text": "Slack", "href": "https://hackclub.com/slack" },
+        { "text": "Clubs", "href": "https://hackclub.com/clubs" },
+        { "text": "Code of Conduct", "href": "https://hackclub.com/conduct/" }
+      ]
+    }
+  },
+  "event": {
+    "city": "Cambridge",
+    "date": "Mar 1, 2026",
+    "venue": {
+      "name": "Raspberry Pi Foundation HQ",
+      "link": "https://www.google.com/maps/place/Raspberry+Pi+Foundation/@52.1965881,0.1264568,710m/data=!3m1!1e3!4m7!3m6!1s0x47d870831b2fd0b5:0xf3176a3ca4b18b5f!8m2!3d52.1966209!4d0.1307118!15sCg9SYXNwYmVycnkgcGkgaHFaESIPcmFzcGJlcnJ5IHBpIGhxkgEXbm9uX3Byb2ZpdF9vcmdhbml6YXRpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTXpNR0UyUmtwbkVBReABAPoBBAgWEDc!16s%2Fm%2F0j62fvl?coh=277535&entry=tts&g_ep=EgoyMDI2MDEyMC4wIPu8ASoKLDEwMDc5MjA3M0gBUAM%3D&skid=afcf6b84-50bb-4a69-9454-d28532165ea1"
+    },
+    "schedule": {
+      "days": [
+        {
+          "date": "Feb 28th",
+          "items": [
+            { "time": "7:45 AM", "activity": "Doors open" },
+            { "time": "8:00-8:45 AM", "activity": "Icebreakers" },
+            { "time": "9:00-9:45 AM", "activity": "Opening Ceremony" },
+            { "time": "10:15 AM-12:15 PM", "activity": "Godot Workshop" },
+            { "time": "12:45-1:45 PM", "activity": "Lunch" },
+            { "time": "2:00-3:00 PM", "activity": "Ren'py Workshop" },
+            { "time": "3:00-3:30 PM", "activity": "Hackathon Hosting 101 With Hack Canada" },
+            { "time": "4:00-4:15 PM", "activity": "Typing Contest" },
+            { "time": "6:00-7:00 PM", "activity": "Project Pitch and Dinner" },
+            { "time": "6:45-7:30 PM", "activity": "Just Dance" },
+            { "time": "7:35-7:45 PM", "activity": "Semi-Closing" }
+          ]
+        }
+      ]
+    },
+    "sponsors": {
+      "cards": [
+        {
+          "sponsor": "Hack Club",
+          "logo": "https://assets.hackclub.com/flag-standalone-wtransparent.svg",
+          "link": "https://hackclub.com"
+        }
+      ]
+    },
+    "signatures": false,
+    "faq": {
+      "title": "FAQ",
+      "participant": {
+        "title": "Participant",
+        "questions": [
+          {
+            "question": "What is a game jam?",
+            "answer": "A game jam is an event where you build a game from scratch in a short time period! It's all about creativity, teamwork, and having fun while learning new skills."
+          },
+          {
+            "question": "Am I eligible?",
+            "answer": "If you're a high schooler (or younger), you're eligible! No prior experience required - just bring your enthusiasm and willingness to learn."
+          },
+          {
+            "question": "But I've never hacked before!",
+            "answer": "Perfect! Game jams are designed for beginners. You'll have workshops, mentors, and teammates to help you every step of the way."
+          },
+          {
+            "question": "All this, for free?",
+            "answer": "Yes! Everything is completely free - venue, food, swag, workshops, and prizes. Hack Club covers all costs so you can focus on creating."
+          },
+          {
+            "question": "What do I need to bring?",
+            "answer": "Just bring yourself, a laptop, charger, and any personal items you need. We'll provide food, drinks, and everything else!"
+          }
+        ],
+        "buttonText": "Check out the parent guide"
+      },
+      "organizer": {
+        "title": "Organizer",
+        "questions": [
+          {
+            "question": "Can I organize a Campfire in my city?",
+            "answer": "Absolutely! We're always looking for passionate organizers. If you're ready to bring the magic of game development to your community, we'd love to help."
+          },
+          {
+            "question": "What are the steps to organizing?",
+            "answer": "First, apply through our organizer form. Then we'll guide you through venue booking, team building, workshop planning, and day-of coordination."
+          },
+          {
+            "question": "Do we get funding?",
+            "answer": "Yes! Hack Club provides funding for venue, food, swag, and other event costs. We want to remove financial barriers for amazing events."
+          },
+          {
+            "question": "Do we get volunteer hours?",
+            "answer": "Many schools accept organizing hours as community service. Check with your school's requirements - we can provide documentation."
+          },
+          {
+            "question": "Can I join an organizing team?",
+            "answer": "Of course! Many cities have organizing teams. Reach out to organizers in your area or apply to join an existing team."
+          }
+        ],
+        "buttonText": "Apply to be an organizer"
+      }
+    }
+  }
+}
