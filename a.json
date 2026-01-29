@@ -67,7 +67,7 @@
     "schedule": {
       "days": [
         {
-          "date": "Feb 28th",
+          "date": "March 1st",
           "items": [
             { "time": "7:45 AM", "activity": "Doors open" },
             { "time": "8:00-8:45 AM", "activity": "Icebreakers" },
