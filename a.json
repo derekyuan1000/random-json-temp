@@ -4,7 +4,7 @@
     "hero": {
       "campfire": "CAMPFIRE",
       "subtitle": "Game jam for high schoolers in 200+ cities",
-      "hostedAt": "Hosted @ ",
+      "hostedAt": "Hosted @ Raspberry Pi Foundation",
       "emailPlaceholder": "you@hackclub.com",
       "ctaPrimary": "SIGN UP!",
       "ctaSecondary": "flagship event",
@@ -69,17 +69,17 @@
         {
           "date": "March 1st",
           "items": [
-            { "time": "7:45 AM", "activity": "Doors open" },
-            { "time": "8:00-8:45 AM", "activity": "Icebreakers" },
+            { "time": "8:30 AM", "activity": "Doors open" },
             { "time": "9:00-9:45 AM", "activity": "Opening Ceremony" },
             { "time": "10:15 AM-12:15 PM", "activity": "Godot Workshop" },
-            { "time": "12:45-1:45 PM", "activity": "Lunch" },
+            { "time": "12:30-1:30 PM", "activity": "Lunch" },
             { "time": "2:00-3:00 PM", "activity": "Ren'py Workshop" },
-            { "time": "3:00-3:30 PM", "activity": "Hackathon Hosting 101 With Hack Canada" },
-            { "time": "4:00-4:15 PM", "activity": "Typing Contest" },
-            { "time": "6:00-7:00 PM", "activity": "Project Pitch and Dinner" },
-            { "time": "6:45-7:30 PM", "activity": "Just Dance" },
-            { "time": "7:35-7:45 PM", "activity": "Semi-Closing" }
+            { "time": "3:00-6:00 PM", "activity": "Work on your projects" },
+            { "time": "6:00-7:00 PM", "activity": "Dinner" },
+            { "time": "7:00 - 7:30 PM", "activity": "Final touches" },
+            { "time": "7:30 - 8:00 PM", "activity": "Ship projects" },
+            { "time": "8:00 - 8:15 PM", "activity": "Voting" }
+            { "time": "8:15 - 8:30 PM", "activity": "Closing ceremony" }
           ]
         }
       ]
