@@ -78,7 +78,7 @@
             { "time": "6:00-7:00 PM", "activity": "Dinner" },
             { "time": "7:00 - 7:30 PM", "activity": "Final touches" },
             { "time": "7:30 - 8:00 PM", "activity": "Ship projects" },
-            { "time": "8:00 - 8:15 PM", "activity": "Voting" }
+            { "time": "8:00 - 8:15 PM", "activity": "Voting" },
             { "time": "8:15 - 8:30 PM", "activity": "Closing ceremony" }
           ]
         }
